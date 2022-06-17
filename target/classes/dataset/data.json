@@ -1,0 +1,16 @@
+{
+  "TC14": {
+    "Depart_Date": "1/3/2022",
+    "Depart_From ": "Nha Trang",
+    "Arrive_At": "Sài Gòn",
+    "Seat_Type": "Hard seat",
+    "Ticket_Amount": "5"
+  },
+  "TC17": {
+    "Depart_Date": "1/3/2022",
+    "Depart_From ": "Nha Trang",
+    "Arrive_At": "Sài Gòn",
+    "Seat_Type": "Hard seat",
+    "Ticket_Amount": "10"
+  }
+}
